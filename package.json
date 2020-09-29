@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "prepare": "echo \"RUNNING TEST PACKAGE PREPARE SCRIPT ------------------------\"",
+    "prepare": "echo \"RUNNING TEST PACKAGE PREPARE SCRIPT ------------------------\" > TEST",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
